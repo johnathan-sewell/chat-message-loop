@@ -1,3 +1,5 @@
+This is a simple script that uses OpenAI's GPT-4o-mini to generate chat messages for a BLAST TV chat room, for the purpose of sending somewhat realistic chat messages on development environments.
+
 Create a .env file in the root of the project:
 
 ```
